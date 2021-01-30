@@ -1,7 +1,7 @@
-dogebet
+# dogebet
 A casino betting game for teslas using dogecoins just as a joke
 
-About
+# About
 
 dogebet is a casino betting game for teslas using dogecoins just as a joke.
 ---
